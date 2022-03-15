@@ -11,6 +11,5 @@
 - 👯 I’m looking to collaborate on OpenSource Projects
 - 🤔 I’m looking for help with anything am currently learning!😄 
 - 📫 How to reach me: noo nedd to reach me 😄
-- 😄 Pronouns: ...
 - ⚡ Fun fact:I Always try to learn something new 
--->
+
