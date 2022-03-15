@@ -25,7 +25,7 @@
 
 - 🤔 I’m looking for help with anything am currently learning!😄 
 
-- 📫 How to reach me: noo nedd to reach me 😄
+- 📫 How to reach me: no need to reach me 😄
 
 - ⚡ Fun fact:I Always try to learn something new 
 
