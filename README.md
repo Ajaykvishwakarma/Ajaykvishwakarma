@@ -25,7 +25,7 @@
 
 - 🤔 I’m looking for help with anything am currently learning!😄 
 
-- 📫 How to reach me: no need to reach me 😄
+- 📫 Reach me Through: ajaykv054@gmail.com 😄
 
 - ⚡ Fun fact:I Always try to learn something new 
 
