@@ -59,8 +59,8 @@
 ## Interested on my top projects?
 
 <p>
-<a href="https://pantaloons-heroku.herokuapp.com/pages/homePage.html" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ZhahsN2kCuQ2K9yX4lneKX2sJCymKH8fDg&usqp=CAU" alt="pantaloons" width="150px" height="50px"/></a>
-<a href="https://best-buy-sidpatil.netlify.app/" target="blank"><img src="https://in.sugarcosmetics.com/Footer_sugar_icon.png" alt="Best Buy" width="150px" height="50px" /></a>
+<a href="https://levi-s-in.vercel.app" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ZhahsN2kCuQ2K9yX4lneKX2sJCymKH8fDg&usqp=CAU" alt="pantaloons" width="150px" height="50px"/></a>
+<a href="https://competent-bardeen-b9ae59.netlify.app/" target="blank"><img src="https://in.sugarcosmetics.com/Footer_sugar_icon.png" alt="Best Buy" width="150px" height="50px" /></a>
 <a href="https://best-buy-sidpatil.netlify.app/" target="blank"><img src="https://in.sugarcosmetics.com/Footer_sugar_icon.png" alt="Best Buy"  width="150px" height="50px"/></a>
 <a href="https://best-buy-sidpatil.netlify.app/" target="blank"><img src="https://in.sugarcosmetics.com/Footer_sugar_icon.png" alt="Best Buy"  width="150px" height="50px" /></a>
 <a href="https://best-buy-sidpatil.netlify.app/" target="blank"><img src="https://in.sugarcosmetics.com/Footer_sugar_icon.png" alt="Best Buy"  width="150px" height="50px" /></a>
