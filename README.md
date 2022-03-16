@@ -39,11 +39,11 @@
 ## Connect with me:-
 <p align="left">
 
-<a href="https://twitter.com/">
+<a href="https://twitter.com/ajay_k_vishwa">
   <img align="left" alt="" | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
  
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/ajay-vishwakarma-57a20a217/">
   <img align="left" alt="" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
