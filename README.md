@@ -40,15 +40,15 @@
 <p align="left">
 
 <a href="https://twitter.com/ajay_k_vishwa">
-  <img align="left" alt="" | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Ajay Vishwakarma" | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
  
 <a href="https://www.linkedin.com/in/ajay-vishwakarma-57a20a217/">
-  <img align="left" alt="" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ajay vishwakarma" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <a href="https://www.instagram.com/">
-  <img align="left" alt="Siddesh Patil" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Ajay vishwakarma" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 
@@ -59,9 +59,12 @@
 ## Interested on my top projects?
 
 <p>
-<a href="https://pantaloons-heroku.herokuapp.com/pages/homePage.html" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Pantaloons&color=01AA8B&logo=pantaloons&logoColor=FFFFFF&label=" alt="pantaloons"/></a>
-<a href="https://best-buy-sidpatil.netlify.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Best Buy&color=2540A1&logoColor=FFFFFF&label=" alt="Best Buy" /></a>
-<a href="https://clone-cult-fit.netlify.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Cult Fit&color=000000&logo=Cult Fit&logoColor=FFFFFF&label=" alt="Cult Fit"/></a>
+<a href="https://pantaloons-heroku.herokuapp.com/pages/homePage.html" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ZhahsN2kCuQ2K9yX4lneKX2sJCymKH8fDg&usqp=CAU" alt="pantaloons" width="150px" height="50px"/></a>
+<a href="https://best-buy-sidpatil.netlify.app/" target="blank"><img src="https://in.sugarcosmetics.com/Footer_sugar_icon.png" alt="Best Buy" width="150px" height="50px" /></a>
+<a href="https://best-buy-sidpatil.netlify.app/" target="blank"><img src="https://in.sugarcosmetics.com/Footer_sugar_icon.png" alt="Best Buy"  width="150px" height="50px"/></a>
+<a href="https://best-buy-sidpatil.netlify.app/" target="blank"><img src="https://in.sugarcosmetics.com/Footer_sugar_icon.png" alt="Best Buy"  width="150px" height="50px" /></a>
+<a href="https://best-buy-sidpatil.netlify.app/" target="blank"><img src="https://in.sugarcosmetics.com/Footer_sugar_icon.png" alt="Best Buy"  width="150px" height="50px" /></a>
+<a href="https://clone-cult-fit.netlify.app/" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ZhahsN2kCuQ2K9yX4lneKX2sJCymKH8fDg&usqp=CAU" alt="Cult Fit"  width="150px" height="50px" /></a>
 </p>
 
 </br>
@@ -76,17 +79,20 @@
 ## 🚀 Languages and Tools:-
 
 <p align="left"> 
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/>  
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>  
-  <img src="https://img.icons8.com/color/48/000000/redux.png"/> 
-     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> 
-   <img src="https://img.icons8.com/color/48/000000/git.png"/> 
-  
+   <img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48" margin-left="20px"/>  
+   <img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48" margin-left="20px"/>
+   <img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48" margin-left="20px"/>
+   <img src="https://img.icons8.com/color/48/000000/react-native.png" width="48" height="48" margin-left="20px"/>  
+   <img src="https://img.icons8.com/color/48/000000/redux.png" width="48" height="48" margin-left="20px"/> 
+   <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="48" height="48" margin-left="20px"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48" margin-left="20px"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="48" height="48" margin-left="20px"/> 
+   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48" margin-left="20px"/> 
+   <img src="https://img.icons8.com/color/48/000000/git.png" width="48" height="48" margin-left="20px"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" margin-left="20px"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" margin-left="20px"/>                                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" margin-left="20px"/>                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" margin-left="20px"/>                 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" margin-left="20px"/>  
+     
 </p>
 
 </br>
