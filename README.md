@@ -59,7 +59,7 @@
 <p>
 <a href="https://levi-s-in.vercel.app" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ZhahsN2kCuQ2K9yX4lneKX2sJCymKH8fDg&usqp=CAU" alt="pantaloons" width="150px" height="50px"/></a>
 <a href="https://competent-bardeen-b9ae59.netlify.app/" target="blank"><img src="https://in.sugarcosmetics.com/Footer_sugar_icon.png" alt="Best Buy" width="150px" height="50px" /></a>
-<a href="https://leviwithbackend.herokuapp.com" target="blank"><img src="https://encrypted-tbn0.gstatic.com/imagesq=tbn:ANd9GcQ1ZhahsN2kCuQ2K9yX4lneKX2sJCymKH8fDg&usqp=CAU" alt="Cult Fit"  width="150px" height="50px" /></a>
+<a href="https://leviwithbackend.herokuapp.com" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ZhahsN2kCuQ2K9yX4lneKX2sJCymKH8fDg&usqp=CAU" alt="Cult Fit"  width="150px" height="50px" /></a>
 </p>
 
 </br>
