@@ -39,11 +39,11 @@
 ## Connect with me:-
 <p align="left">
 
-<a href="https://twitter.com/ajay_k_vishwa" target="_blank">
+<a href="https://twitter.com/ajay_k_vishwa" target="_blank" rel="noopener">
   <img align="left" alt="Ajay Vishwakarma" | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
  
-<a href="https://www.linkedin.com/in/ajay-vishwakarma-57a20a217/">
+<a href="https://www.linkedin.com/in/ajay-vishwakarma-57a20a217/" target="_blank" rel="noopener" >
   <img align="left" alt="Ajay vishwakarma" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
@@ -57,9 +57,9 @@
 ## Interested on my top projects?
 
 <p>
-<a href="https://levi-s-in.vercel.app" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ZhahsN2kCuQ2K9yX4lneKX2sJCymKH8fDg&usqp=CAU" alt="pantaloons" width="150px" height="50px"/></a>
-<a href="https://competent-bardeen-b9ae59.netlify.app/" target="blank"><img src="https://in.sugarcosmetics.com/Footer_sugar_icon.png" alt="Best Buy" width="150px" height="50px" /></a>
-<a href="https://leviwithbackend.herokuapp.com" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ZhahsN2kCuQ2K9yX4lneKX2sJCymKH8fDg&usqp=CAU" alt="Cult Fit"  width="150px" height="50px" /></a>
+<a href="https://levi-s-in.vercel.app" target="_blank" rel="noopener"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ZhahsN2kCuQ2K9yX4lneKX2sJCymKH8fDg&usqp=CAU" alt="pantaloons" width="150px" height="50px"/></a>
+<a href="https://competent-bardeen-b9ae59.netlify.app/" target="_blank" rel="noopener"><img src="https://in.sugarcosmetics.com/Footer_sugar_icon.png" alt="Best Buy" width="150px" height="50px" /></a>
+<a href="https://leviwithbackend.herokuapp.com" target="_blank" rel="noopener" ><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ZhahsN2kCuQ2K9yX4lneKX2sJCymKH8fDg&usqp=CAU" alt="Cult Fit"  width="150px" height="50px" /></a>
 </p>
 
 </br>
