@@ -40,11 +40,11 @@
 <p align="left">
 
 <a href="https://twitter.com/ajay_k_vishwa" target="_blank" rel="noopener">
-  <img align="left" alt="Ajay Vishwakarma" | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Ajay Vishwakarma" | Twitter" width="50px" color="blue" src="https://img.icons8.com/fluency/344/twitter.png" />
 </a>
  
 <a href="https://www.linkedin.com/in/ajay-vishwakarma-57a20a217/" target="_blank" rel="noopener" >
-  <img align="left" alt="Ajay vishwakarma" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ajay vishwakarma" width="50px" src="https://img.icons8.com/nolan/2x/linkedin.png" />
 </a>
 
 
