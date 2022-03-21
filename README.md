@@ -81,7 +81,7 @@
    <img src="https://img.icons8.com/color/48/000000/redux.png" width="48" height="48" margin-left="20px"/> 
    <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="48" height="48" margin-left="20px"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48" margin-left="20px"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="48" height="48" margin-left="20px"/> 
+   <img src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" alt="express" width="60" height="48" margin-left="20px"/> 
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48" margin-left="20px"/> 
    <img src="https://img.icons8.com/color/48/000000/git.png" width="48" height="48" margin-left="20px"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" margin-left="20px"/> 
