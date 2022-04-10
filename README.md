@@ -23,7 +23,7 @@
 
 - 👯 I’m looking to collaborate on OpenSource Projects
 
-- 🤔 I’m looking for help with anything am currently learning!😄 
+- 🤔 I’m looking for help with anything am currently learning!
 
 - 📫 Reach me Through: ajaykv054@gmail.com 😄
 
