@@ -60,6 +60,7 @@
 <a href="https://levi-s-in.vercel.app" target="_blank" rel="noopener"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ZhahsN2kCuQ2K9yX4lneKX2sJCymKH8fDg&usqp=CAU" alt="pantaloons" width="150px" height="50px"/></a>
 <a href="https://competent-bardeen-b9ae59.netlify.app/" target="_blank" rel="noopener"><img src="https://in.sugarcosmetics.com/Footer_sugar_icon.png" alt="Best Buy" width="150px" height="50px" /></a>
 <a href="https://leviwithbackend.herokuapp.com" target="_blank" rel="noopener" ><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ZhahsN2kCuQ2K9yX4lneKX2sJCymKH8fDg&usqp=CAU" alt="Cult Fit"  width="150px" height="50px" /></a>
+<a href="https://twitter-clone-ba49b.web.app/" target="_blank" rel="noopener"><img src="https://img.icons8.com/fluency/344/twitter.png" alt="pantaloons" width="150px" height="50px"/></a>
 </p>
 
 </br>
