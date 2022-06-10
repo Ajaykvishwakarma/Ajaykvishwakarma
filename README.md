@@ -19,15 +19,21 @@
 
 - 🔭 I’m currently working on DSA
 
-- 🌱 I’m currently learning Mern Stack
+- 🌱 I’m currently working on Mern Stack
 
 - 👯 I’m looking to collaborate on OpenSource Projects
 
-- 🤔 I’m looking for help with anything am currently learning!
+- 👨‍💻 All of my projects are available at (https://ajayvishwakarma-a15v.vercel.app))
+
+- 💬 Ask me about React, NodeJS, HTML, CSS, Express JS, Mongo DB, Python, Java, JavaScript
 
 - 📫 Reach me Through: ajaykv054@gmail.com 😄
 
+- 📄Resume https://drive.google.com/file/d/1KxKiRSJfsljvVg6s6q9qAwy1adp2edad/view?usp=sharing
+
 - ⚡ Fun fact:I Always try to learn something new 
+
+
 
 
 
